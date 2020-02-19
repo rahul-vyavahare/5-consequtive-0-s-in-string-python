@@ -7,5 +7,5 @@ def fivecount(s,n):
     print(n, "consequtive 0's are",r)
 
 s=input("enter binary string")
-n=int(input("how many consequtive 0's you want"))
+n=int(input("number of consequtive 0's find"))
 fivecount(s,n)
